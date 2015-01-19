@@ -1,0 +1,6 @@
+[package]
+
+name = "rust-c-interop-example"
+version = "0.0.1"
+authors = ["Jerome Stepp <jerome.stepp@cengage.com>"]
+build = "build.rs"
